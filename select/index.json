@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "いつか",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2025-12-07T12:02:30.462015Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いつか（SOMEDAY）",
+      "artist": "山下達郎",
+      "has_synced": true,
+      "path": "select/01_いつか(SOMEDAY)_山下達郎.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いつか（SOMEDAY）",
+      "artist": "Tatsuro Yamashita",
+      "has_synced": true,
+      "path": "select/02_いつか(SOMEDAY)_Tatsuro_Yamashita.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いつか / どこか",
+      "artist": "Cornelius",
+      "has_synced": true,
+      "path": "select/03_いつか___どこか_Cornelius.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いつか、シンデレラが 〜Ballad arrange ver.〜",
+      "artist": "ひとしずく×やま△ feat.鏡音リン、鏡音レン",
+      "has_synced": false,
+      "path": "select/04_いつか、シンデレラが_〜Ballad_arrange_ver.〜_ひとしずく×やま△_feat.鏡音リン、鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いつか、シンデレラが 〜Ballad arrange ver.〜",
+      "artist": "鏡音レン",
+      "has_synced": false,
+      "path": "select/05_いつか、シンデレラが_〜Ballad_arrange_ver.〜_鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いつか",
+      "artist": "Saucy Dog",
+      "has_synced": true,
+      "path": "select/06_いつか_Saucy_Dog.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "いつか、シンダレラが",
+      "artist": "ひとしずくP×やま△ feat. 鏡音レン",
+      "has_synced": false,
+      "path": "select/07_いつか、シンダレラが_ひとしずくP×やま△_feat._鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Saucy Dog「いつか」MUSIC VIDEO",
+      "artist": "Saucy Dog",
+      "has_synced": true,
+      "path": "select/08_Saucy_Dog「いつか」MUSIC_VIDEO_Saucy_Dog.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "いつか",
+      "artist": "Yui Horie",
+      "has_synced": false,
+      "path": "select/09_いつか_Yui_Horie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "いつか",
+      "artist": "HY",
+      "has_synced": false,
+      "path": "select/10_いつか_HY.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "いつか、また。",
+      "artist": "上田麗奈",
+      "has_synced": false,
+      "path": "select/11_いつか、また。_上田麗奈.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "いつか - Itsuka",
+      "artist": "Saucy Dog",
+      "has_synced": true,
+      "path": "select/12_いつか_-_Itsuka_Saucy_Dog.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "いつか",
+      "artist": "Yuki Saito",
+      "has_synced": false,
+      "path": "select/13_いつか_Yuki_Saito.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "いつか",
+      "artist": "Saito, Yuki",
+      "has_synced": false,
+      "path": "select/14_いつか_Saito,_Yuki.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "いつか… (NEW RECORDING)",
+      "artist": "Shunsuke Kiyokiba",
+      "has_synced": false,
+      "path": "select/15_いつか..._(NEW_RECORDING)_Shunsuke_Kiyokiba.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "いつか Shiny Days -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/16_いつか_Shiny_Days_-25_colors-_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "いつか きっと",
+      "artist": "渡辺美里",
+      "has_synced": false,
+      "path": "select/17_いつか_きっと_渡辺美里.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "どこかで、いつか - Japanese ver.",
+      "artist": "Sung Si Kyung",
+      "has_synced": true,
+      "path": "select/18_どこかで、いつか_-_Japanese_ver._Sung_Si_Kyung.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "いつか、花は咲くだろう",
+      "artist": "ささきいさお",
+      "has_synced": true,
+      "path": "select/19_いつか、花は咲くだろう_ささきいさお.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつか",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_いつか_Saucy_Dog.txt"
+    }
+  ]
+}
